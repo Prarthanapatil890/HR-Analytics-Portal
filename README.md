@@ -128,14 +128,4 @@ http://127.0.0.1:5000/
 * Add real-time database integration
 * Use deep learning models (ANN)
 
----
 
-## 👩‍💻 Author
-
-**Prarthana Patil**
-
----
-
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
